@@ -1,4 +1,4 @@
-#                                                                  Hackerrank-Python
+# Hackerrank-Python
 
 
 ## Python Solutions | <a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>
