@@ -60,6 +60,8 @@ def mutate_string(string, position, character):
     string = "".join(n)
     return string
 
+# --------------------------------------------------------------
+
 if __name__ == '__main__':
     s = input()
     i, c = input().split()
